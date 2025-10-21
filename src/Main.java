@@ -6,9 +6,9 @@ public class Main {
 
 
     public static void main(String[] args){
-      String nombreUsuario = "Laura";
-      int nivelUsuario= 1;
-      int puntuacionUsuario= 0;
+      String nombreUsuario = "Mario";
+      int nivelUsuario= 4;
+      int puntuacionUsuario= 200;
 
       System.out.println(" nombre del usuario= " +nombreUsuario);
       System.out.println(" nivel del usuario= " +nivelUsuario);
